@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=silce&color=auto$height=300&section=header&text=MoonsuJang&forntSize=90)
-<h3 align="center"> Tech Stack </h3>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=07485D&height=200&section=header&text=Moonsu%20Jang&fontSize=90&fontColor=027D8A&animation=fadeIn%22/%3E"/>
 
 
 <!--
