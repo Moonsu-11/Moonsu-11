@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=004080&height=200&section=header&text=Moonsu%20Jang&fontSize=90&fontColor=FFFFFF&animation=fadeIn%22/%3E"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0A1E27&height=200&section=header&text=Moonsu%20Jang&fontSize=90&fontColor=FFF1E6&animation=fadeIn%22/%3E"/>
 
 
 <!--
