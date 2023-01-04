@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=042940&height=200&section=header&text=𝕄𝕆𝕆ℕ𝕊𝕌&fontSize=80&fontAlign=70&fontAlignY=27&fontColor=FEFEFE&desc=To%20Become%20Game%20Programmer%20🎮&descSize=15&descAlign=63&descAlignY=45&rotate=13.5&animation=fadeIn%22/%3E"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=042940&height=200&section=header&text=𝕄𝕆𝕆ℕ𝕊𝕌&fontSize=80&fontAlign=70&fontAlignY=27&fontColor=FEFEFE&desc=To%20Become%20Game%20A%20Programmer%20🎮&descSize=15&descAlign=63&descAlignY=45&rotate=13.5&animation=fadeIn%22/%3E"/>
 
 <div align=Left>
 	<h1>📚 Tech Stack 📚</h1>
