@@ -17,6 +17,7 @@
  <div align=Left>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/3DSMAX-0696D7?style=for-the-badge&logo=Autodesk&logoColor=white">
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
 </div>
 <br>
 
