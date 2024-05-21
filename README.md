@@ -3,10 +3,10 @@
 	<p>🔥 Languages 🔥</p>
 </div>
 <div align=Left>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
 <br>
   <br>
 <div align=Left>
@@ -15,15 +15,25 @@
  <div align=Left>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/3DSMAX-0696D7?style=for-the-badge&logo=Autodesk&logoColor=white">
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
+<img src="https://img.shields.io/badge/xcode-147efb?style=for-the-badge&logo=xcode&logoColor=white"/>
 </div>
 <br>
 
 <div align=Leftr>
 <h1>😎 Introduce 😎</h1>
-  <p>🏆 Baekjoon solved rank 🏆</p>
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joey300)](https://solved.ac/joey300)
+### 🏆 Awards 🏆
+| 상훈명                       | 수상내역               | 주최                      |
+| ---------------------------- | ---------------------- | ------------------------- |
+| 2023 XR 디바이스 콘텐츠 아이디어톤 |대상(과학기술정보통신부 장관상) | 정보통신산업진흥원<br>구미전자정보기술원<br>차세대융합콘텐츠산업협회 |
+| 2024 C&C창의융합경진대회     | 대상                   | 한성대학교                |
+
 </div>
-	
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Moonsu-11&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonsu-11&langs_count=8&&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
