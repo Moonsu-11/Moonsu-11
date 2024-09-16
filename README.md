@@ -57,7 +57,7 @@
 | 2023 XR 디바이스 콘텐츠 아이디어톤 |대상(과학기술정보통신부 장관상) | 정보통신산업진흥원<br>구미전자정보기술원<br>차세대융합콘텐츠산업협회 |
 | 2024 C&C창의융합경진대회     | 대상                   | 한성대학교                |
 | 2024 한성대학교 캡스톤디자인     | 우수상                   | 한성대학교                |
-| 2024 한국컴퓨터그래픽스학회     | 학부 우수포스상            | 한성대학교                |
+| 2024 한국컴퓨터그래픽스학회     | 학부 우수포스상            | 한국컴퓨터그래픽회                |
 </div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Moonsu-11&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
