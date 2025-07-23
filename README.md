@@ -6,7 +6,8 @@
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <br>
   <br>
 <div align=Left>
@@ -17,7 +18,8 @@
 <img src="https://img.shields.io/badge/3DSMAX-0696D7?style=for-the-badge&logo=Autodesk&logoColor=white">
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
-<img src="https://img.shields.io/badge/xcode-147efb?style=for-the-badge&logo=xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/xcode-147efb?style=for-the-badge&logo=xcode&logoColor=white">
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=Pycharm&logoColor=green"/>
 </div>
 <br>
 
