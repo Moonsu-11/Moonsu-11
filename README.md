@@ -4,7 +4,7 @@
 </div>
 <div align=Left>
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
 <br>
@@ -49,7 +49,7 @@
 | 유아 한글 교육 AR 프로그램   | 2023.11~2023.12  | XR프로젝트 (AR)              | 한글 카드 스캔 및 음성 지원|
 | 먼여행 (먼저가서 미안해 여기서도 난 행복하게 잘지내)  | 2023.09~2024.03 | XR프로젝트 (MR)              |가상의 반려동물 상호작용|
 | LUVIA | 2024.03~2024.06  | XR프로젝트 (VR)              |개구리 해부 실습 시뮬레이션|
-| MindFriend | 2025.05  | XR프로젝트 (VR)              |난임·불임, 산후우울증 심리상담 프로그램|
+| 마음 친구 | 2025.05  | XR프로젝트 (VR)              |난임·불임, 산후우울증 심리상담 프로그램|
 
 <hr>
 	
