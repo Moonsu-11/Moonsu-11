@@ -15,9 +15,10 @@
 </div>
  <div align=Left>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/arduino-00979d?style=for-the-badge&logo=arduino&logoColor=white">
 <img src="https://img.shields.io/badge/3DSMAX-0696D7?style=for-the-badge&logo=Autodesk&logoColor=white">
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
 <img src="https://img.shields.io/badge/xcode-147efb?style=for-the-badge&logo=xcode&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=Pycharm&logoColor=green"/>
 </div>
@@ -52,6 +53,8 @@
 | 먼여행 (먼저가서 미안해 여기서도 난 행복하게 잘지내)  | 2023.09~2024.03 | XR프로젝트 (MR)              |가상의 반려동물 상호작용|
 | LUVIA | 2024.03~2024.06  | XR프로젝트 (VR)              |개구리 해부 실습 시뮬레이션|
 | 마음 친구 | 2025.05  | XR프로젝트 (VR)              |난임·불임, 산후우울증 AI심리상담|
+| 저항의 불씨 | 2025.08  | XR프로젝트 (VR)              |한국사 타임슬립형 VR 게임|
+| L4L | 2025.11  | 어플리케이션              |내러티브 어드벤처 게임|
 
 <hr>
 	
