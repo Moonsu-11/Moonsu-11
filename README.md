@@ -21,6 +21,15 @@
   🎓 건국대학교 석사과정 · 2027년 2월 졸업 예정
 </p>
 
+<p align="center">
+  <a href="https://app.notion.com/p/Moonsu-Jang-3e10e6fbad6080e5801fe254c9cce655">
+    <img
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"
+      alt="장문수 포트폴리오"
+    >
+  </a>
+</p>
+
 <br>
 
 ## 🚀 Main Projects
